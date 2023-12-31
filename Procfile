@@ -1,1 +1,1 @@
-worker: python3 -m FZBypass
+worker: python -m bot
